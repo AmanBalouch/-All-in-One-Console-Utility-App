@@ -1,0 +1,3 @@
+1    Dur M         17
+2    Mubashir         19
+9    bashi         13

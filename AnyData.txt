@@ -1,0 +1,2 @@
+Java is a good language.
+Python is very easy.

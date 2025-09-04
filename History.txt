@@ -1,0 +1,158 @@
+Dur  DurM(12)
+1)AreaCalculator.^
+	1.Square.
+	2.Rectangle
+	3.Triangle
+	4.Triangle
+	5.Triangle
+2)Games.^
+	1.Rock-Paper-Scissor
+3)Calculator.^
+	1.Calculate time by Distance
+4)See history
+-------------------------------------------------------------------
+
+Sugar  @Sugar12345
+1)File Handling.
+2)Games.
+	1.Rock-Paper-Scissor
+	2.HangMan
+3)Calculator.^
+	1.Comsat Aggregate Calculaor
+	2.Invalid Input
+	3.Invalid Input
+4)See history
+-------------------------------------------------------------------
+
+amankaabu  Am@nkaAbu1
+1)Calculator.^
+	1.2 digit HCF calculator
+2)File Handling.
+	1.Enter data in file(Student id, Age and Name)
+-------------------------------------------------------------------
+
+amankaabu  Am@nkaAbu1
+1)See history
+2)Games.
+	1.NumberGuesser
+	2.TicTacToe
+3)AreaCalculator.
+	1.Square.
+	2.Rectangle
+	3.Pentagon
+	4.Hexagon
+	5.Hexagon
+4)Converter.
+	1.Currency Converter
+5)See history
+-------------------------------------------------------------------
+
+Dur  DurM(12)
+1)File Handling.
+	1.Create new file
+	2.Enter data in file(Student id, Age and Name)
+	3.Read data from file
+	4.Find record by id
+	5.Find record by id
+	6.Read data from file
+2)See history
+-------------------------------------------------------------------
+
+Mubashir  Mubashir(34)
+1)File Handling.
+	1.Enter data in file(Student id, Age and Name)
+-------------------------------------------------------------------
+
+www  $FfR$Pm1
+1)Calculator.^
+2)Checker.
+3)See history
+4)File Handling.
+	1.Find record by id
+	2.Read data from file
+	3.Invalid choice
+-------------------------------------------------------------------
+
+Hassan Ali  Jounali@1214
+1)Calculator.^
+2)Converter.
+	1.Currency Converter
+3)File Handling.
+	1.Create new file
+	2.Enter data in file(Student id, Age and Name)
+	3.Read data from file
+	4.Find record by id
+	5.Find record by id
+	6.Read data from file
+4)See history
+-------------------------------------------------------------------
+
+Hassan Ali  Jounali@1214
+1)Calculator.^
+	1.Simple Calculator
+2)See history
+-------------------------------------------------------------------
+
+manu  eF%tpc9>?k8N
+
+manu  eF%tpc9>?k8N
+1)Games.
+	1.NumberGuesser
+	2.TicTacToe
+2)Calculator.^
+	1.Comsat Aggregate Calculaor
+	2.Comsat Aggregate Calculaor
+	3.Comsat Aggregate Calculaor
+	4.Grade and Percentage Calculator
+3)File Handling.
+	1.Create new file
+	2.Create new file
+4)See history
+-------------------------------------------------------------------
+
+mueen  aYz4%96(}
+-------------------------------------------------------------------
+
+mueen  aYz4%96(}
+1)See history
+-------------------------------------------------------------------
+
+Rabia mueen  @Birthday26
+1)Games.
+	1.NumberGuesser
+	2.HangMan
+	3.HangMan
+	4.Rock-Paper-Scissor
+-------------------------------------------------------------------
+
+Dur  DurM(12)
+1)See history
+2)File Handling.
+	1.Create new file
+	2.Enter data in file(Student id, Age and Name)
+	3.Read data from file
+	4.Read data from file
+	5.Find record by id
+3)See history
+-------------------------------------------------------------------
+
+abcd  DurM(12)
+1)Calculator.^
+	1.Comsat Aggregate Calculaor
+2)Games.
+	1.TicTacToe
+3)See history
+-------------------------------------------------------------------
+
+abdulrehman  Shazu(01)
+1)Calculator.^
+	1.Digits Calculator
+2)Games.
+	1.TicTacToe
+3)File Handling.
+	1.Create new file
+4)Checker.
+	1.Pallindrome Checker.
+5)Calculator.^
+6)See history
+-------------------------------------------------------------------
